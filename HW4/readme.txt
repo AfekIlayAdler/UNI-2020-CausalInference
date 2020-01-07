@@ -8,3 +8,5 @@ For the first 3 methods I used Random Forest, so I did not standatarize the data
 for the last model I used KNN, it could have been better to scale the covariates and maybe even do dimensionallity reduction for that purpose. But I decided to leave it as it is.
 
 As my final prediction, I submit the mean of the first 3 methods.
+
+All the code is availbale also in - https://github.com/AfekIlayAdler/UNI-2020-CausalInference/tree/master/HW4
